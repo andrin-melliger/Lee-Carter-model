@@ -9,4 +9,8 @@ This implementation was established as part of the following bachelor thesis:
 
 Andrin Melliger. Modeling Mortality with the Lee-Carter Model. An Analysis of the Model and the Associated Conceptual Model Risk. Department of Mathematics, ETH Zurich, 2022. Supervised by Prof. Dr. Michael Koller, Prof. Dr. Mario V. Wüthrich.
 
+The demographic data for Switzerland provided in this repository was obtained on March 30, 2022 from:
+
+Human Mortality Database. University of California, Berkeley (USA) and Max Planck Institute for Demographic Research (Germany). Available at www.mortality.org or www.humanmortality.de.
+
 For comments or questions, please contact Andrin Melliger at andrin.melliger@bluewin.ch.
